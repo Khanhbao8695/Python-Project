@@ -1,3 +1,3 @@
 # DataCamp's Project
 
-Most of my project during time studying Data Science Track with Datacamp
+Most of my projects in this repo was conducted in Python from many sources :DataCamp, Kaggle and other sources. 
