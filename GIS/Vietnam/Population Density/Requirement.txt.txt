@@ -1,0 +1,6 @@
+1) Download and Install Folium, Geopandas, and get all necessary information in 
+a) http://www.diva-gis.org/gdata
+b) https://www.citypopulation.de/en/vietnam/
+2) Change your CRS to your country's crs before calculating area of geometry
+3) Please save your image as html, png, or jpg because githut cannot display interactive map, static only
+ 
